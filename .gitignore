@@ -50,3 +50,6 @@ Thumbs.db
 # Output
 results/
 figures/
+
+# MyPy
+.mypy_cache/
